@@ -1,2 +1,2 @@
 # DB-Python
-Connection and querry
+Connection and query
